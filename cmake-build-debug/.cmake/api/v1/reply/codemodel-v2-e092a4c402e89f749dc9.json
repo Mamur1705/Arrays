@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Arrays",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Arrays::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Arrays-Debug-e1cb9d18d116c571b8ec.json",
+					"name" : "Arrays",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem-Debug-95cd5293c27da031a18d.json",
+					"name" : "problem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem1-Debug-7b37252e2bd23d098c5e.json",
+					"name" : "problem1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem2-Debug-f67d84f990cb2d426e4c.json",
+					"name" : "problem2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem4-Debug-d0cd9f8ddc8d0530a29b.json",
+					"name" : "problem4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "problem7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-problem7-Debug-a0a92b3bbcbfbcede30e.json",
+					"name" : "problem7",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/m.xushvaqtov/CLionProjects/Arrays/cmake-build-debug",
+		"source" : "/Users/m.xushvaqtov/CLionProjects/Arrays"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
